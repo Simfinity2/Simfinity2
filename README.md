@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- TVL-ICT student from MSHS
+- Currently learning C++, Java, HTML, CSS, SQL, and JavaScript. 
